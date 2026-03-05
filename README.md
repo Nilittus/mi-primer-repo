@@ -1,2 +1,1 @@
-# mi-primer-repo
-Repositorio de Pruebas
+Soy estudiante en prácticas de SMR
